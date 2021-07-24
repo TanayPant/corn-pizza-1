@@ -1,1 +1,3 @@
-# corn-pizza-1
+# CornPizza
+Delicious Corn Pizza with italian sauce and mozzarella cheese 
+With the Mouth watering toppings of Golden Corn
